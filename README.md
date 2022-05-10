@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Game Development & PyTorch.
 
 - My public repositories mostly are:
-    - Plugins for the creation of ML datasets (es: for simulating event camera footage, easy NeRF dataset creation in Unity).
+    - Plugins for the creation of ML datasets in Unity (es: easy NeRF dataset creation, simulating event camera footage).
     - Videogame projects.
 
 - 📫 Feel free to contact me:
