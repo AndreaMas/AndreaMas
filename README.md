@@ -1,9 +1,7 @@
 ### Hi there 👋 I'm Andrea.
 
 - 💬 I'm mostly passionate about:
-    - Computer Vision & Remote Sensing,
-    - Machine Learning,
-    - Signal Processing, 
+    - Computer Vision, Machine Learning, & Remote Sensing,
     - Computer Graphics & Game Dev.
 - 🌱 I’m currently learning Game Development & PyTorch.
 - 📫 Feel free to contact me through LinkedIn: https://www.linkedin.com/in/andrea-masciulli/
