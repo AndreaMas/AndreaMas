@@ -7,8 +7,8 @@
 
 - 👯 My public repositories mostly are:
     - Plugins for the creation of ML datasets in Unity:
-        - [easy NeRF dataset creation](https://github.com/AndreaMas/nerf-dataset-creator-plugin)
-        - [simulating event camera footage](https://github.com/AndreaMas/esim-in-unity)
+        - [Easy NeRF dataset creation](https://github.com/AndreaMas/nerf-dataset-creator-plugin)
+        - [Simulating event camera footage](https://github.com/AndreaMas/esim-in-unity)
     - Videogame projects.
 
 - 📫 Feel free to contact me:
