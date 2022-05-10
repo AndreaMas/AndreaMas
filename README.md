@@ -5,13 +5,14 @@
     - Computer Graphics & Game Dev.
 - 🌱 I’m currently learning Game Development & PyTorch.
 
-My public repositories mostly are:
-- Plugins for the creation of ML datasets (es: for simulating event camera footage, easy NeRF dataset creation in Unity).
-- Videogame projects.
+- My public repositories mostly are:
+    - Plugins for the creation of ML datasets (es: for simulating event camera footage, easy NeRF dataset creation in Unity).
+    - Videogame projects.
 
-LinkedIn: https://www.linkedin.com/in/andrea-masciulli/
-YT : https://www.youtube.com/channel/UC4o16WmnXZZUJOAylaDvlJQ
-Website : [Work in progress]
+- 📫 Feel free to contact me:
+    - LinkedIn: https://www.linkedin.com/in/andrea-masciulli/
+    - YT : https://www.youtube.com/channel/UC4o16WmnXZZUJOAylaDvlJQ
+    - Website : [Work in progress]
 
 
 <!--
