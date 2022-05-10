@@ -3,7 +3,7 @@
 - 💬 I'm mostly passionate about:
     - Computer Vision, Machine Learning, Remote Sensing.
     - Computer Graphics & Game Dev.
-- 🌱 I’m currently learning Game Development, C++ & PyTorch.
+- 🌱 I’m currently learning Game Development & C++ memory management.
 
 - 👯 My public repositories are:
     - Plugins for the creation of ML datasets in Unity:
