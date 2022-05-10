@@ -4,11 +4,14 @@
     - Computer Vision, Machine Learning, & Remote Sensing,
     - Computer Graphics & Game Dev.
 - 🌱 I’m currently learning Game Development & PyTorch.
-- 📫 Feel free to contact me through LinkedIn: https://www.linkedin.com/in/andrea-masciulli/
-- YT : https://www.youtube.com/channel/UC4o16WmnXZZUJOAylaDvlJQ
-- Website : [Work in progress]
 
+My public repositories mostly are:
+- Plugins for the creation of ML datasets (es: for simulating event camera footage, easy NeRF dataset creation in Unity).
+- Videogame projects.
 
+LinkedIn: https://www.linkedin.com/in/andrea-masciulli/
+YT : https://www.youtube.com/channel/UC4o16WmnXZZUJOAylaDvlJQ
+Website : [Work in progress]
 
 
 <!--
