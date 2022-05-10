@@ -5,7 +5,7 @@
     - Machine Learning,
     - Signal Processing, 
     - Computer Graphics & Game Dev.
-- 🌱 I’m currently learning Game Development at the university of Verona.
+- 🌱 I’m currently learning Game Development.
 - 📫 Feel free to contact me through LinkedIn: https://www.linkedin.com/in/andrea-masciulli/
 - YT : https://www.youtube.com/channel/UC4o16WmnXZZUJOAylaDvlJQ
 - Website : [Work in progress]
