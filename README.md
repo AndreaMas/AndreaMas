@@ -5,7 +5,7 @@
     - Computer Graphics & Game Dev.
 - 🌱 I’m currently learning Game Development, C++ & PyTorch.
 
-- 👯 My public repositories mostly are about:
+- 👯 My public repositories are:
     - Plugins for the creation of ML datasets in Unity:
         - [Easy NeRF dataset creation](https://github.com/AndreaMas/nerf-dataset-creator-plugin)
         - [Simulating event camera footage](https://github.com/AndreaMas/esim-in-unity)
