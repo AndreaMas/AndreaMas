@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Andrea.
 
-I'm Andrea, at the moment I'm a student at the university of Verona. My interests revolve mainly arount the fields of Computer Graphics, Computer Vision, Remote Sensing, Machine Learning, Signal Processing and Game Dev.
+- 💬 I'm mostly passionate about Computer Vision, Remote Sensing, Machine Learning, Signal Processing, Computer Graphics and Game Dev.
+- 🌱 I’m currently learning Game Development at the university of Verona.
+- 📫 Feel free to contact me through LinkedIn: https://www.linkedin.com/in/andrea-masciulli/
+- YT : https://www.youtube.com/channel/UC4o16WmnXZZUJOAylaDvlJQ
+- Website : [Work in progress]
 
-Feel free to contact me!
-
-YouTube channel: https://www.youtube.com/channel/UC4o16WmnXZZUJOAylaDvlJQ
-Website: [work in progress]
 
 
 
