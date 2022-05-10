@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Andrea.
 
 - 💬 I'm mostly passionate about:
-    - Computer Vision, Machine Learning, & Remote Sensing,
+    - Computer Vision, Machine Learning, Remote Sensing.
     - Computer Graphics & Game Dev.
 - 🌱 I’m currently learning Game Development & PyTorch.
 
