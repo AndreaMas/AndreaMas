@@ -9,7 +9,8 @@
     - Plugins for the creation of ML datasets in Unity:
         - [Easy NeRF dataset creation](https://github.com/AndreaMas/nerf-dataset-creator-plugin)
         - [Simulating event camera footage](https://github.com/AndreaMas/esim-in-unity)
-    - Videogame projects.
+    - Videogame projects:
+        - [Human Computer Interaction Game](https://github.com/AndreaMas/HCI_project_build)
 
 - 📫 Feel free to contact me:
     - LinkedIn: https://www.linkedin.com/in/andrea-masciulli/
