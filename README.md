@@ -12,7 +12,7 @@
     - Videogame projects:
         - [Human Computer Interaction Game](https://github.com/AndreaMas/HCI_project_build)
         - [Simple Physics Based Labyrinth Game](https://github.com/AndreaMas/Physics-Based-Labyrinth-Game)
-    - Other:
+    - C++ Ppojects:
         - [Bare bone C++ Wrapper for FMOD Core API](https://github.com/AndreaMas/FMOD-API-Core-Wrapper)
 
 - 📫 Feel free to contact me:
