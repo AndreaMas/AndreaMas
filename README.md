@@ -11,6 +11,7 @@
         - [Simulating event camera footage](https://github.com/AndreaMas/esim-in-unity)
     - Videogame projects:
         - [Human Computer Interaction Game](https://github.com/AndreaMas/HCI_project_build)
+        - [Simple Physics Based Labyrinth Game](https://github.com/AndreaMas/Physics-Based-Labyrinth-Game)
     - Other:
         - [Bare bone C++ Wrapper for FMOD Core API](https://github.com/AndreaMas/FMOD-API-Core-Wrapper)
 
