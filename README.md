@@ -16,6 +16,8 @@
         - [Simple Physics Based Labyrinth Game](https://github.com/AndreaMas/Physics-Based-Labyrinth-Game)
     - C++ projects:
         - [Bare bone C++ Wrapper for FMOD Core API](https://github.com/AndreaMas/FMOD-API-Core-Wrapper)
+    - Other:
+        - [Master Thesis: View-Synthesis for drawings](https://github.com/AndreaMas/ict-master-thesis)
 
 - 📫 Feel free to contact me:
     - LinkedIn: https://www.linkedin.com/in/andrea-masciulli/
