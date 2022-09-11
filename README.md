@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Game Development & C++.
 
 - 👯 My public repositories are:
-    - Plugins for the creation of Machine Learning datasets in Unity:
+    - Plugins to make Machine Learning datasets in Unity:
         - [Easy NeRF dataset creation](https://github.com/AndreaMas/nerf-dataset-creator-plugin)
         - [Simulating event camera footage](https://github.com/AndreaMas/esim-in-unity)
     - Videogame projects:
