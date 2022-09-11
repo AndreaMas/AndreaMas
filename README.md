@@ -22,7 +22,7 @@
 
 - 📫 Feel free to contact me:
     - LinkedIn: https://www.linkedin.com/in/andrea-masciulli/
-    - YT : https://www.youtube.com/channel/UC4o16WmnXZZUJOAylaDvlJQ
+    - YouTube : https://www.youtube.com/channel/UC4o16WmnXZZUJOAylaDvlJQ
     - Website : [Work in progress]
 
 
