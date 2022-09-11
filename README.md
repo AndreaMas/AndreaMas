@@ -3,7 +3,6 @@
 - 💬 I'm mostly passionate about:
     - Computer Vision, Machine Learning, Remote Sensing.
     - Computer Graphics & Game Development.
-    - Bridging the gaps between the above!
 
 - 🌱 I’m currently learning Game Development & C++.
 
