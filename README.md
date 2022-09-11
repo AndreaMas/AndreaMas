@@ -16,6 +16,7 @@
         - [Simple Physics Based Labyrinth Game](https://github.com/AndreaMas/Physics-Based-Labyrinth-Game)
     - C++ projects:
         - [Bare bone C++ Wrapper for FMOD Core API](https://github.com/AndreaMas/FMOD-API-Core-Wrapper)
+        - [Ashii-art C++ Raytracer](https://github.com/AndreaMas/cpp-basic-raytracer)
     - Other:
         - [Master Thesis: View-Synthesis for drawings](https://github.com/AndreaMas/ict-master-thesis)
 
