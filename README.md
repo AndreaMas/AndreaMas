@@ -12,7 +12,7 @@
         - [Simulating event camera footage](https://github.com/AndreaMas/esim-in-unity)
     - Videogame projects:
         - [Hand-Detection Game](https://github.com/AndreaMas/HCI_project_build)
-        - [Simple Physics Based Labyrinth Game](https://github.com/AndreaMas/Physics-Based-Labyrinth-Game)
+        - [Physics-Based Labyrinth Game](https://github.com/AndreaMas/Physics-Based-Labyrinth-Game)
         - [Mobile Sidescroller](https://github.com/Martiriak/Stickman-Project)
     - C++ projects:
         - [C++ Wrapper for FMOD Core API](https://github.com/AndreaMas/FMOD-API-Core-Wrapper)
