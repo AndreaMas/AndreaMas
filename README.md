@@ -8,18 +8,18 @@
 
 - 👯 My public repositories are:
     - Unity Plugins to generate Machine Learning Datasets:
-        - [NeRF Plugin: Create NeRF datasets in Unity](https://github.com/AndreaMas/nerf-dataset-creator-plugin)
-        - [ESIM Plugin: Event Camera footage from Unity](https://github.com/AndreaMas/esim-in-unity)
+        - [**NeRF Plugin**: Create NeRF datasets in Unity](https://github.com/AndreaMas/nerf-dataset-creator-plugin)
+        - [**ESIM Plugin**: Event Camera footage from Unity](https://github.com/AndreaMas/esim-in-unity)
     - Videogame projects:
-        - [Of Planets and Guns: Sci-Fi FPS Rogue-lite in UE4](https://gitlab.com/bug-society/of-planets-and-guns)
-        - [Catch them eggs: Hand-Detection Game](https://github.com/AndreaMas/HCI_project_build)
-        - [Chubby Runners: Mobile Sidescroller](https://github.com/Martiriak/Stickman-Project)
-        - [Physics-Based Labyrinth Game](https://github.com/AndreaMas/Physics-Based-Labyrinth-Game)
+        - [**Of Planets and Guns**: Sci-Fi FPS Rogue-lite in UE4](https://gitlab.com/bug-society/of-planets-and-guns)
+        - [**Catch them eggs**: Hand-Detection Game](https://github.com/AndreaMas/HCI_project_build)
+        - [**Chubby Runners**: Mobile Sidescroller](https://github.com/Martiriak/Stickman-Project)
+        - [**Physics-Based Labyrinth Game**](https://github.com/AndreaMas/Physics-Based-Labyrinth-Game)
     - C++ projects:
-        - [C++ Wrapper for FMOD Core API](https://github.com/AndreaMas/FMOD-API-Core-Wrapper)
-        - [C++ Ashii-Art Raytracer](https://github.com/AndreaMas/cpp-basic-raytracer)
+        - [**C++ Wrapper for FMOD Core API**](https://github.com/AndreaMas/FMOD-API-Core-Wrapper)
+        - [**C++ Ashii-Art Raytracer**](https://github.com/AndreaMas/cpp-basic-raytracer)
     - 3D reconstruction:
-        - [Master Thesis: View-Synthesis for drawings](https://github.com/AndreaMas/ict-master-thesis)
+        - [**Master Thesis**: View-Synthesis for drawings](https://github.com/AndreaMas/ict-master-thesis)
 
 - 📫 Feel free to contact me:
     - LinkedIn: https://www.linkedin.com/in/andrea-masciulli/
