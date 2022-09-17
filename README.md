@@ -12,7 +12,7 @@
         - [Simulating event camera footage](https://github.com/AndreaMas/esim-in-unity)
     - Videogame projects:
         - [Of Planets and Guns: Sci-Fi FPS Rouge-lite](https://gitlab.com/bug-society/of-planets-and-guns)
-        - [Catch the eggs: Hand-Detection Game](https://github.com/AndreaMas/HCI_project_build)
+        - [Catch them eggs: Hand-Detection Game](https://github.com/AndreaMas/HCI_project_build)
         - [Chubby Runners: Mobile Sidescroller](https://github.com/Martiriak/Stickman-Project)
         - [Physics-Based Labyrinth Game](https://github.com/AndreaMas/Physics-Based-Labyrinth-Game)
     - C++ projects:
