@@ -14,10 +14,10 @@
         - [**Of Planets and Guns**: Sci-Fi FPS Rogue-lite in UE4](https://gitlab.com/bug-society/of-planets-and-guns)
         - [**Catch them eggs**: Hand-Detection Game](https://github.com/AndreaMas/HCI_project_build)
         - [**Chubby Runners**: Mobile Sidescroller](https://github.com/Martiriak/Stickman-Project)
-        - [**Physics-Based Labyrinth Game**](https://github.com/AndreaMas/Physics-Based-Labyrinth-Game)
+        - [Physics-Based Labyrinth Game](https://github.com/AndreaMas/Physics-Based-Labyrinth-Game)
     - C++ projects:
-        - [**C++ Wrapper for FMOD Core API**](https://github.com/AndreaMas/FMOD-API-Core-Wrapper)
-        - [**C++ Ashii-Art Raytracer**](https://github.com/AndreaMas/cpp-basic-raytracer)
+        - [Wrapper for FMOD Core API](https://github.com/AndreaMas/FMOD-API-Core-Wrapper)
+        - [Ashii-Art Raytracer](https://github.com/AndreaMas/cpp-basic-raytracer)
     - 3D reconstruction:
         - [**Master Thesis**: View-Synthesis for drawings](https://github.com/AndreaMas/ict-master-thesis)
 
