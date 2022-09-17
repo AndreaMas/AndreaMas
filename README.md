@@ -12,13 +12,13 @@
         - [Simulating event camera footage](https://github.com/AndreaMas/esim-in-unity)
     - Videogame projects:
         - [Of Planets and Guns: Sci-Fi FPS Rouge-lite](https://gitlab.com/bug-society/of-planets-and-guns)
-        - [Hand-Detection Game](https://github.com/AndreaMas/HCI_project_build)
+        - [Catch the eggs: Hand-Detection Game](https://github.com/AndreaMas/HCI_project_build)
+        - [Chubby Runners: Mobile Sidescroller](https://github.com/Martiriak/Stickman-Project)
         - [Physics-Based Labyrinth Game](https://github.com/AndreaMas/Physics-Based-Labyrinth-Game)
-        - [Mobile Sidescroller](https://github.com/Martiriak/Stickman-Project)
     - C++ projects:
         - [C++ Wrapper for FMOD Core API](https://github.com/AndreaMas/FMOD-API-Core-Wrapper)
         - [C++ Ashii-Art Raytracer](https://github.com/AndreaMas/cpp-basic-raytracer)
-    - Other:
+    - 3D reconstruction:
         - [Master Thesis: View-Synthesis for drawings](https://github.com/AndreaMas/ict-master-thesis)
 
 - 📫 Feel free to contact me:
