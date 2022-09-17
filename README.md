@@ -11,7 +11,7 @@
         - [Easy NeRF dataset creation](https://github.com/AndreaMas/nerf-dataset-creator-plugin)
         - [Simulating event camera footage](https://github.com/AndreaMas/esim-in-unity)
     - Videogame projects:
-        - [Of Planets and Guns: Sci-Fi FPS Rouge-lite developed as a university project](https://gitlab.com/bug-society/of-planets-and-guns)
+        - [Of Planets and Guns: Sci-Fi FPS Rouge-lite](https://gitlab.com/bug-society/of-planets-and-guns)
         - [Hand-Detection Game](https://github.com/AndreaMas/HCI_project_build)
         - [Physics-Based Labyrinth Game](https://github.com/AndreaMas/Physics-Based-Labyrinth-Game)
         - [Mobile Sidescroller](https://github.com/Martiriak/Stickman-Project)
