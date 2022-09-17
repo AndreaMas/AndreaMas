@@ -9,7 +9,7 @@
 - 👯 My public repositories are:
     - Unity Plugins to generate Machine Learning Datasets:
         - [NeRF Plugin: Create NeRF datasets in Unity](https://github.com/AndreaMas/nerf-dataset-creator-plugin)
-        - [ESIM Plugin: Event Camera footage in Unity](https://github.com/AndreaMas/esim-in-unity)
+        - [ESIM Plugin: Event Camera footage from Unity](https://github.com/AndreaMas/esim-in-unity)
     - Videogame projects:
         - [Of Planets and Guns: Sci-Fi FPS Rogue-lite in UE4](https://gitlab.com/bug-society/of-planets-and-guns)
         - [Catch them eggs: Hand-Detection Game](https://github.com/AndreaMas/HCI_project_build)
