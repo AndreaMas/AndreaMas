@@ -22,9 +22,9 @@
         - [**Master Thesis**: View-Synthesis for drawings](https://github.com/AndreaMas/ict-master-thesis)
 
 - 📫 Feel free to contact me:
-    - LinkedIn: https://www.linkedin.com/in/andrea-masciulli/
+    - [LinkedIn](https://www.linkedin.com/in/andrea-masciulli/)
     - Mail: masciulliandrea96@gmail.com
-    - YouTube : https://www.youtube.com/channel/UC4o16WmnXZZUJOAylaDvlJQ
+    - [YouTube Channel](https://www.youtube.com/channel/UC4o16WmnXZZUJOAylaDvlJQ)
     
 
 
