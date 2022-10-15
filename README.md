@@ -26,6 +26,7 @@
     - Mail: masciulliandrea96@gmail.com
     - [LinkedIn](https://www.linkedin.com/in/andrea-masciulli/)
     - [YouTube Channel](https://www.youtube.com/channel/UC4o16WmnXZZUJOAylaDvlJQ)
+    - [Itch.io](https://aramas.itch.io/)
     
 
 
