@@ -10,11 +10,11 @@
     - Unity Plugins to generate Machine Learning Datasets:
         - [**NeRF Plugin**: Create NeRF datasets in Unity](https://github.com/AndreaMas/nerf-dataset-creator-plugin)
         - [**ESIM Plugin**: Event Camera footage from Unity](https://github.com/AndreaMas/esim-in-unity)
-    - Videogame projects:
-        - [**Of Planets and Guns**: Sci-Fi FPS Rogue-lite in UE4](https://gitlab.com/bug-society/of-planets-and-guns/-/tree/master)
-        - [**Catch them eggs**: Hand-Detection Game](https://github.com/AndreaMas/HCI_Project)
-        - [**Chubby Runners**: Mobile Sidescroller](https://github.com/Martiriak/Stickman-Project)
-        - [Physics-Based Labyrinth Game](https://github.com/AndreaMas/Physics-Based-Labyrinth-Game)
+    - Videogames:
+        - [ [Play](https://fraffer.itch.io/of-planets-and-guns) ] [**Of Planets and Guns**: FPS in UE4](https://gitlab.com/bug-society/of-planets-and-guns/-/tree/master)
+        - [ [Play](https://aramas.itch.io/catch-them-eggs) ] [**Catch them eggs**: Hand-Detection Game](https://github.com/AndreaMas/HCI_Project)
+        - [ [Play](https://ecchi-sensei.itch.io/chubby-runners) ] [**Chubby Runners**: Mobile Sidescroller](https://github.com/Martiriak/Stickman-Project)
+        - [ [Play](https://aramas.itch.io/physics-labyrinth-game) ] [Physics-Based Labyrinth Game](https://github.com/AndreaMas/Physics-Based-Labyrinth-Game)
     - C++ projects:
         - [**Ashii-Art Ray-Caster** in C++](https://github.com/AndreaMas/cpp-basic-raytracer)
         - [**BigInt Library**](https://github.com/AndreaMas/big-int-lib-cpp)
