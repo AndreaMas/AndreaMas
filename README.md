@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Andrea.
 
+masciulliandrea96@gmail.com / [LinkedIn](https://www.linkedin.com/in/andrea-masciulli/) / [YouTube](https://www.youtube.com/channel/UC4o16WmnXZZUJOAylaDvlJQ) / [Itch.io](https://aramas.itch.io/)
+
 - 💬 I'm mostly passionate about:
     - Computer Vision, Machine Learning, Remote Sensing.
     - Computer Graphics & Game Development.
@@ -22,11 +24,6 @@
     - 3D reconstruction:
         - [**Master Thesis**: View-Synthesis for drawings](https://github.com/AndreaMas/ict-master-thesis)
 
-- 📫 Feel free to contact me:
-    - Mail: masciulliandrea96@gmail.com
-    - [LinkedIn](https://www.linkedin.com/in/andrea-masciulli/)
-    - [YouTube Channel](https://www.youtube.com/channel/UC4o16WmnXZZUJOAylaDvlJQ)
-    - [Itch.io](https://aramas.itch.io/)
     
 
 
