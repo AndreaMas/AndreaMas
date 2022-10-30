@@ -2,9 +2,7 @@
 
 masciulliandrea96@gmail.com / [LinkedIn](https://www.linkedin.com/in/andrea-masciulli/) / [YouTube](https://www.youtube.com/channel/UC4o16WmnXZZUJOAylaDvlJQ) / [Itch.io](https://aramas.itch.io/)
 
-- 💬 I'm mostly passionate about:
-    - Computer Vision, Machine Learning, Remote Sensing.
-    - Computer Graphics & Game Development.
+- 💬 I'm mostly passionate about Computer Vision/Graphics, Machine Learning, Remote Sensing & Game Development.
 
 - 🌱 I’m currently learning Game Development & C++.
 
