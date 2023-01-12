@@ -20,6 +20,7 @@ masciulliandrea96@gmail.com / [LinkedIn](https://www.linkedin.com/in/andrea-masc
     - C++ projects:
         - [**Ashii-Art Ray-Caster** in C++](https://github.com/AndreaMas/cpp-basic-raytracer)
         - [**BigInt Library**](https://github.com/AndreaMas/big-int-lib-cpp)
+        - [**Arcanoid in DirectX**](https://github.com/AndreaMas/Arcanoid-DirectX)
         - [Wrapper for FMOD Core API](https://github.com/AndreaMas/FMOD-API-Core-Wrapper)
 
 
