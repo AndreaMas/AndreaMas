@@ -15,13 +15,13 @@ masciulliandrea96@gmail.com / [LinkedIn](https://www.linkedin.com/in/andrea-masc
         - [ [Play](https://fraffer.itch.io/of-planets-and-guns) ] [**Of Planets and Guns**: FPS in UE4](https://gitlab.com/bug-society/of-planets-and-guns/-/tree/master)
         - [ [Play](https://aramas.itch.io/catch-them-eggs) ] [**Catch them eggs**: Hand-Detection Game](https://github.com/AndreaMas/HCI_Project)
         - [ [Play](https://ecchi-sensei.itch.io/chubby-runners) ] [**Chubby Runners**: Mobile Sidescroller](https://github.com/Martiriak/Stickman-Project)
-        - [ [Play](https://aramas.itch.io/physics-labyrinth-game) ] [Physics Assignment: Labyrinth Game](https://github.com/AndreaMas/Physics-Based-Labyrinth-Game)
-        - [ [Play](https://aramas.itch.io/network-transform-sync-test) ] [Network Assignment: Rigidbody interpolation](https://github.com/AndreaMas/rb-interpolation)
+        - [ [Play](https://aramas.itch.io/physics-labyrinth-game) ] [**Labyrinth Game**: Physics Assignment](https://github.com/AndreaMas/Physics-Based-Labyrinth-Game)
+        - [ [Play](https://aramas.itch.io/network-transform-sync-test) ] [**Rigidbody interpolation**: Network Assignment](https://github.com/AndreaMas/rb-interpolation)
     - C++ projects:
-        - [**Ashii-Art Ray-Caster** in C++](https://github.com/AndreaMas/cpp-basic-raytracer)
+        - [**Ashii-Art Ray-Caster**](https://github.com/AndreaMas/cpp-basic-raytracer)
         - [**BigInt Library**](https://github.com/AndreaMas/big-int-lib-cpp)
-        - [**Arcanoid in DirectX**](https://github.com/AndreaMas/Arcanoid-DirectX)
-        - [Wrapper for FMOD Core API](https://github.com/AndreaMas/FMOD-API-Core-Wrapper)
+        - [**Arkanoid in DirectX11**](https://github.com/AndreaMas/graphics-homework-directx-arkanoid)
+        - [**Wrapper for FMOD Core API**](https://github.com/AndreaMas/FMOD-API-Core-Wrapper)
 
 
     
