@@ -16,10 +16,10 @@ masciulliandrea96@gmail.com / [LinkedIn](https://www.linkedin.com/in/andrea-masc
     - Videogames (playable builds & source code):
         - [ [Play](https://fraffer.itch.io/of-planets-and-guns) ] [**Of Planets and Guns**: FPS in UE4](https://gitlab.com/bug-society/of-planets-and-guns/-/tree/master)
         - [ [Play](https://aramas.itch.io/catch-them-eggs) ] [**Catch them eggs**: Hand-Detection Game](https://github.com/AndreaMas/HCI_Project)
+        - [ [Play](https://aramas.itch.io/unreal-engine-platformer-game-engine-assignment) ] [**SuperMario64 Clone**: Platformer in UE4](https://gitlab.com/masciulliandrea96/gameengineproj)
         - [ [Play](https://ecchi-sensei.itch.io/chubby-runners) ] [**Chubby Runners**: Mobile Sidescroller](https://github.com/Martiriak/Stickman-Project)
         - [ [Play](https://aramas.itch.io/physics-labyrinth-game) ] [**Labyrinth Game**: Physics Assignment](https://github.com/AndreaMas/Physics-Based-Labyrinth-Game)
         - [ [Play](https://aramas.itch.io/network-transform-sync-test) ] [**Rigidbody interpolation**: Network Assignment](https://github.com/AndreaMas/rb-interpolation)
-        - [ [Play](https://aramas.itch.io/unreal-engine-platformer-game-engine-assignment) ] [**SuperMario64 Clone**: Game Engine Assignment](https://gitlab.com/masciulliandrea96/gameengineproj)
     - C++ projects:
         - [**Ashii-Art Ray-Caster**](https://github.com/AndreaMas/cpp-basic-raytracer)
         - [**BigInt Library**](https://github.com/AndreaMas/big-int-lib-cpp)
