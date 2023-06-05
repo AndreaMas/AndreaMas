@@ -4,8 +4,6 @@ masciulliandrea96@gmail.com / [LinkedIn](https://www.linkedin.com/in/andrea-masc
 
 - 💬 I'm mostly passionate about: Computer Vision/Graphics, Machine Learning, Remote Sensing & Game Development.
 
-- 🌱 I’m currently learning Game Development & C++.
-
 - 👯 My public repositories are:
     - Unity Plugins (to generate Machine Learning Datasets):
         - [**NeRF Plugin**: Create NeRF datasets in Unity](https://github.com/AndreaMas/nerf-dataset-creator-plugin)
