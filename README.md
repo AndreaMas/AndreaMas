@@ -4,7 +4,7 @@ masciulliandrea96@gmail.com
 
 - 💬 I'm mostly passionate about: Computer Vision/Graphics, Machine Learning, Remote Sensing & Game Development.
 
-- 👯 My public repositories are:
+- 👯 My public projects:
     - Unity Plugins for Machine Learning datasets generation:
         - [**NeRF Plugin**: Create NeRF datasets in Unity](https://github.com/AndreaMas/nerf-dataset-creator-plugin)
         - [**ESIM Plugin**: Event Camera footage from Unity](https://github.com/AndreaMas/esim-in-unity)
