@@ -2,7 +2,7 @@
 
 masciulliandrea96@gmail.com
 
-- 💬 I'm mostly passionate about: Computer Vision/Graphics, Machine Learning, Remote Sensing & Game Development.
+- 💬 My work mostly revolves around Computer Vision/Graphics, Machine Learning, Remote Sensing & Game Development.
 
 - 👯 My public projects:
     - Unity Plugins for Machine Learning datasets generation:
