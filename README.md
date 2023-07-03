@@ -5,13 +5,13 @@ masciulliandrea96@gmail.com
 - 💬 I'm mostly passionate about: Computer Vision/Graphics, Machine Learning, Remote Sensing & Game Development.
 
 - 👯 My public repositories are:
-    - Unity Plugins (to generate Machine Learning Datasets):
+    - Unity Plugins for Machine Learning datasets generation:
         - [**NeRF Plugin**: Create NeRF datasets in Unity](https://github.com/AndreaMas/nerf-dataset-creator-plugin)
         - [**ESIM Plugin**: Event Camera footage from Unity](https://github.com/AndreaMas/esim-in-unity)
-    - NeRF (Neural Radiance Fields) related:
+    - Neural Radiance Fields related:
         - [**NeRF Plugin**: Create NeRF datasets in Unity](https://github.com/AndreaMas/nerf-dataset-creator-plugin)
         - [**Master Thesis**: View-Synthesis for drawings](https://github.com/AndreaMas/ict-master-thesis)
-    - Videogames (playable builds & source code):
+    - Videogames:
         - [ [Play](https://fraffer.itch.io/of-planets-and-guns) ] [**Of Planets and Guns**: FPS in UE4](https://gitlab.com/bug-society/of-planets-and-guns/-/tree/master)
         - [ [Play](https://aramas.itch.io/catch-them-eggs) ] [**Catch them eggs**: Hand-Detection Game](https://github.com/AndreaMas/HCI_Project)
         - [ [Play](https://aramas.itch.io/unreal-engine-platformer-game-engine-assignment) ] [**SuperMario64 Clone**: Platformer in UE4](https://gitlab.com/masciulliandrea96/gameengineproj)
@@ -21,7 +21,6 @@ masciulliandrea96@gmail.com
         - [**Ashii-Art Ray-Caster**](https://github.com/AndreaMas/cpp-basic-raytracer)
         - [**BigInt Library**](https://github.com/AndreaMas/big-int-lib-cpp)
         - [**Arkanoid in DirectX11**](https://github.com/AndreaMas/graphics-homework-directx-arkanoid)
-        - [**Wrapper for FMOD Core API**](https://github.com/AndreaMas/FMOD-API-Core-Wrapper)
 
 
     
