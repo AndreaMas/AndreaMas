@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Andrea.
 
-masciulliandrea96@gmail.com
-
 NeRF related projects:
 - [**NeRF Unity Plugin**: Create NeRF datasets in Unity](https://github.com/AndreaMas/nerf-dataset-creator-plugin)
 - [**Master Thesis**: View-Synthesis for drawings](https://github.com/AndreaMas/ict-master-thesis)
