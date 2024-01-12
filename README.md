@@ -2,7 +2,6 @@
 
 NeRF related projects:
 - [**NeRF Unity Plugin**: Create NeRF datasets in Unity](https://github.com/AndreaMas/nerf-dataset-creator-plugin)
-- [**Master Thesis**: View-Synthesis for drawings](https://github.com/AndreaMas/ict-master-thesis)
   
 Videogames [build/code]:
 - [ [Play](https://fraffer.itch.io/of-planets-and-guns) ] [**Of Planets and Guns**: FPS in UE4](https://gitlab.com/bug-society/of-planets-and-guns/-/tree/master)
