@@ -3,7 +3,7 @@
 NeRF related projects:
 - [**NeRF Unity Plugin**: Create NeRF datasets in Unity](https://github.com/AndreaMas/nerf-dataset-creator-plugin)
   
-Videogames: [build]code
+Videogames:
 - [ [Play](https://fraffer.itch.io/of-planets-and-guns) ] [**Of Planets and Guns**: FPS in UE4](https://gitlab.com/bug-society/of-planets-and-guns/-/tree/master)
 - [ [Play](https://aramas.itch.io/catch-them-eggs) ] [**Catch them eggs**: Hand-Detection Game](https://github.com/AndreaMas/HCI_Project)
 - [ [Play](https://aramas.itch.io/unreal-engine-platformer-game-engine-assignment) ] [**SuperMario64 Clone**: Platformer in UE4](https://gitlab.com/masciulliandrea96/gameengineproj)
