@@ -2,7 +2,11 @@
 
 NeRF related projects:
 - [**NeRF Unity Plugin**: Create NeRF datasets in Unity](https://github.com/AndreaMas/nerf-dataset-creator-plugin)
-  
+
+Image processing:
+- [**Image Processing App ( OpenCV / Qt / Python )**](https://github.com/AndreaMas/pyImageProc)
+- [**Image Processing App ( OpenCV / Qt / C++ )**](https://github.com/AndreaMas/ImgProcCppQtCvFlow.git)
+
 Videogames:
 - [ [Play](https://fraffer.itch.io/of-planets-and-guns) ] [**Of Planets and Guns**: FPS in UE4](https://gitlab.com/bug-society/of-planets-and-guns/-/tree/master)
 - [ [Play](https://aramas.itch.io/catch-them-eggs) ] [**Catch them eggs**: Hand-Detection Game](https://github.com/AndreaMas/HCI_Project)
@@ -14,8 +18,6 @@ C++ small projects:
 - [**Ashii-Art Ray-Caster**](https://github.com/AndreaMas/cpp-basic-raytracer)
 - [**BigInt Library**](https://github.com/AndreaMas/big-int-lib-cpp)
 - [**Arkanoid in DirectX11**](https://github.com/AndreaMas/graphics-homework-directx-arkanoid)
-
-
     
 
 
