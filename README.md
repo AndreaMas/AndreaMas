@@ -5,7 +5,7 @@ NeRF related projects:
 
 Image processing:
 - [**Image Processing App ( OpenCV / Qt / Python )**](https://github.com/AndreaMas/pyImageProc)
-- [**Image Processing App ( OpenCV / Qt / C++ )**](https://github.com/AndreaMas/ImgProcCppQtCvFlow.git)
+- [**Image Processing App ( OpenCV / Qt / C++ )**](https://github.com/AndreaMas/ImgProcCppQtCvFlow.git) (private)
 
 Videogames:
 - [ [Play](https://fraffer.itch.io/of-planets-and-guns) ] [**Of Planets and Guns**: FPS in UE4](https://gitlab.com/bug-society/of-planets-and-guns/-/tree/master)
